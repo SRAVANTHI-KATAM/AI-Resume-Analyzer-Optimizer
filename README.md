@@ -33,7 +33,7 @@ It also features a **LinkedIn bio generator**, which uses GPT to craft a compell
 
 ---
 
-## 📸 Preview
+##  Preview
 
 > *(Insert your screenshot here)*  
 > Example:  
@@ -41,7 +41,7 @@ It also features a **LinkedIn bio generator**, which uses GPT to craft a compell
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
 - **AI Model**: OpenAI GPT (`gpt-3.5-turbo`)
@@ -51,7 +51,7 @@ It also features a **LinkedIn bio generator**, which uses GPT to craft a compell
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
