@@ -1,10 +1,10 @@
-# 🧠 AI Resume Analyzer & Optimizer
+#  AI Resume Analyzer & Optimizer
 
 An intelligent Streamlit-powered web application that analyzes your resume against any job description and provides personalized, AI-generated improvements — including ATS optimization tips and a ready-to-use LinkedIn bio.
 
 ---
 
-## 📘 About This Project
+##  About This Project
 
 **AI Resume Analyzer & Optimizer** is a smart web application designed to help job seekers enhance their resumes using the power of artificial intelligence. Built with **Python**, **Streamlit**, and **OpenAI's GPT model**, this tool analyzes a user's resume against a specific job description (JD) to provide actionable, personalized feedback.
 
@@ -12,7 +12,7 @@ The application goes beyond simple keyword matching. It applies natural language
 
 It also features a **LinkedIn bio generator**, which uses GPT to craft a compelling, personalized summary in the first person — ideal for updating your LinkedIn profile or professional bio.
 
-### 🧠 Why This Project Matters
+###  Why This Project Matters
 
 - ⏱ Saves hours of manual tweaking by automating resume optimization  
 - 🎯 Increases chances of interview calls through smart keyword alignment  
@@ -21,7 +21,7 @@ It also features a **LinkedIn bio generator**, which uses GPT to craft a compell
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Upload your resume (`.pdf` or `.docx`)  
 ✅ Paste any job description (JD)  
